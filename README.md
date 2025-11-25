@@ -78,6 +78,8 @@ How to Run the App
    - Or scan the QR code using the Expo Go mobile app
 
 ------------------------------------------------------------
+Demo video: demo/badgerchat-mobile-demo.MP4
+------------------------------------------------------------
 My Role and Contributions
 ------------------------------------------------------------
 I was responsible for:
